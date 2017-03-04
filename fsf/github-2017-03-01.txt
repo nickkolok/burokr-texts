@@ -1,0 +1,27 @@
+To: licensing@fsf.org , license-violation@gnu.org
+
+
+Greetings from Russia, comrads!
+
+One good Russian guy has just noticed that GitHub's new terms-of-service are suspiciuous to be not compatible with GPL.
+Post on Habrahabr (Russian): https://habrahabr.ru/post/323182/
+
+To be precise, the questions are addressed to two points:
+
+D.5 «License Grant to Other Users»
+
+
+Any Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and «fork» your repositories (this means that others may make their own copies of your Content in repositories they control).
+
+If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to access your Content through the GitHub Service, and to use, display and perform your Content, and to reproduce your Content solely on GitHub as permitted through GitHub's functionality. You may grant further rights if you adopt a license.
+
+D.7 «Moral Rights»
+
+To the extent such an agreement is not enforceable by applicable law, you grant GitHub a nonexclusive, revocable, worldwide, royalty-free right to (1) use the Content without attribution strictly as necessary to render the Website and provide the Service; and (2) make reasonable adaptations of the Content as provided in this Section.
+
+
+Could you please study these terms carefully and tell us if we now can use GitHub for GPL projects or not?
+
+
+Regargs,
+NickKolok
