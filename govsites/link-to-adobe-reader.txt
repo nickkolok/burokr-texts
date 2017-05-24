@@ -1,0 +1,21 @@
+ЗАЯВЛЕНИЕ.
+
+В сети "Интернет" по адресу
+http://fipi.ru/ege-i-gve-11/demoversii-specifikacii-kodifikatory
+обнаружена рекомендация использовать закрытый проприетарный программный продукт "Adobe Reader",
+производимый за рубежом (в США) и не являющийся свободным программным обеспечением в соотв. с ГОСТ Р 54593-2011.
+
+Согласно рекомендациям Федеральной службы по техническому и экспортному контролю (ФСТЭК),
+размещённым на сайте ФСТЭК по адресу http://fstec.ru/svobodnoe-programmnoe-obespechenie ,
+для просмотра файлов в формате PDF рекомендуется использовать программу "Sumatra PDF",
+соответствующую ГОСТ Р 54593-2011.
+
+В связи с вышеизложенным
+ПРОШУ:
+заменить сайте
+ФИПИ
+по адресу
+http://fipi.ru/ege-i-gve-11/demoversii-specifikacii-kodifikatory
+ссылку
+http://www.adobe.com/products/acrobat/readstep2_allversions.html
+на https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
